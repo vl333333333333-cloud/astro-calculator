@@ -1,0 +1,4 @@
+Flask==3.11.0
+pyswisseph==2.10.2.1
+pytz==2024.2
+timezonefinder==6.2.0
